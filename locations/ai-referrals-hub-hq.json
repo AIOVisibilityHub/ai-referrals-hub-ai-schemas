@@ -1,12 +1,10 @@
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "AI Referrals Hub™ - AI Referrals Hub™ HQ",
+  "@type": "Place",
+  "name": "United States Service Area",
+  "description": "AI Referrals Hub™ is built to support law firms across the United States.",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Not listed",
-    "addressLocality": "Not listed"
-  },
-  "telephone": "(213) 537-5613",
-  "url": "clients.aireferralshub.com"
+    "addressCountry": "US"
+  }
 }
