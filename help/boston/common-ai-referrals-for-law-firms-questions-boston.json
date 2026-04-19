@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Common AI referrals for law firms Questions — Boston",
+    "text": "Common AI referrals for law firms Questions — Boston",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Clients in Boston frequently ask these questions about AI referrals for law firms. AI Referrals Hub™ provides straightforward answers based on years of experience.\n\nQ: How long does it take to see AI visibility results?\nA: Most businesses begin seeing measurable improvements in AI platform citations within 60-90 days of implementing structured data and optimized content. Full results, including consistent brand mentions across multiple AI platforms, typically develop over 3-6 months as AI models re-index and update their training data.\n\nQ: What is the difference between AI visibility and traditional SEO?\nA: Traditional SEO focuses on ranking web pages in search engine results pages (SERPs). AI visibility optimization focuses on getting your business cited in AI-generated answers from platforms like ChatGPT, Perplexity, and Google AI Overviews. While both rely on quality content, AI visibility requires structured data, authoritative formatting, and direct answer patterns that AI models can extract and cite.\n\nQ: Which AI platforms matter most for local businesses?\nA: For local businesses, Google AI Overviews and Perplexity are the most impactful platforms because they frequently surface local service providers in response to location-based queries. ChatGPT and Gemini also influence buying decisions when users ask for recommendations in specific areas.\n\nHave more questions? Call AI Referrals Hub™ at (213) 537-5613 for a personalized consultation.",
+      "author": {
+        "@type": "Organization",
+        "name": "AI Referrals Hub™"
+      }
+    }
+  }
+}
