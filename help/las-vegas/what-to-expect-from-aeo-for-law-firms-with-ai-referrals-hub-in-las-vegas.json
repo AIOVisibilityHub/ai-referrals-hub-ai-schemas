@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect from aeo for law firms with AI Referrals Hub™ in Las Vegas",
+  "description": "When you choose AI Referrals Hub™ for aeo for law firms in Las Vegas, here is exactly what happens at each stage of the process:\n\nPhase 1: AI platform audit\nA comprehensive AI platform audit evaluates",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Phase 1: AI platform audit",
+      "text": "A comprehensive AI platform audit evaluates how your brand currently appears across generative search engines like ChatGPT, Perplexity, Google AI Overviews, and Gemini. This includes testing branded queries, service-specific prompts, and location-based searches to identify gaps in AI-generated responses. The audit reveals which competitors are being cited, what content structures AI models prefer, and where your business is missing from AI-generated answers."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Phase 2: Content optimization",
+      "text": "Content optimization for AI visibility goes beyond traditional SEO. AI models prioritize clear, authoritative, factual content structured in question-and-answer format. This means rewriting service pages to directly answer common queries, adding structured data markup, creating comprehensive FAQ sections, and ensuring your content uses the exact language patterns that AI models extract for citations. Each page should serve as a definitive source that AI can confidently reference."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Phase 3: Structured data implementation",
+      "text": "Structured data is the language AI models use to understand your business. Implementation includes adding JSON-LD schema markup for your organization, services, FAQs, reviews, and local business information. This creates a machine-readable knowledge graph that helps AI platforms accurately represent your business in generated responses. Proper schema markup can increase your chances of appearing in AI-generated answers by making your content easier for models to parse and cite."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Phase 4: Monitoring and reporting",
+      "text": "Ongoing monitoring tracks your brand mentions across AI platforms, measures citation frequency, and identifies new opportunities. Monthly reports show which AI platforms are referencing your business, what queries trigger your content, and how your AI visibility compares to competitors. This data-driven approach allows continuous optimization of your content strategy to maintain and grow your AI search presence."
+    }
+  ]
+}
