@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Done For You — Full Annual Plan",
+  "description": "Full annual plan managed by the team. Includes building and expanding AI visibility every month, publishing across AI-crawled platforms, content refresh every 30 days, and priority support.",
+  "brand": {
+    "@type": "Organization",
+    "name": "AI Referrals Hub™"
+  },
+  "url": "https://buy.stripe.com/5kQ14n0HZ8Sr7qI9jPcwg02",
+  "offers": {
+    "@type": "Offer",
+    "price": "$2,995/year",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "areaServed": {
+      "@type": "City",
+      "name": "Century City"
+    }
+  }
+}

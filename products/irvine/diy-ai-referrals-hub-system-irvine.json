@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "DIY — AI Referrals Hub™ System",
+  "description": "Run it yourself for total control. Get recommended by AI for your case types and cities, generate thousands of AI-ready data points, and position your firm across AI-crawled platforms. Includes 14-tool Authority Builder Suite and bonuses.",
+  "brand": {
+    "@type": "Organization",
+    "name": "AI Referrals Hub™"
+  },
+  "url": "https://buy.stripe.com/bJe9ATeyP7On9yQ8fLcwg0r",
+  "offers": {
+    "@type": "Offer",
+    "price": "$795 one-time",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "areaServed": {
+      "@type": "City",
+      "name": "Irvine"
+    }
+  }
+}
